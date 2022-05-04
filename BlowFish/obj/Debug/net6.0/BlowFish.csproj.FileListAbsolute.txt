@@ -1,0 +1,15 @@
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.csproj.AssemblyReference.cache
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.AssemblyInfoInputs.cache
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.AssemblyInfo.cs
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.csproj.CoreCompileInputs.cache
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/bin/Debug/net6.0/BlowFish
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/bin/Debug/net6.0/BlowFish.deps.json
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/bin/Debug/net6.0/BlowFish.runtimeconfig.json
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/bin/Debug/net6.0/BlowFish.dll
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/bin/Debug/net6.0/BlowFish.pdb
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.dll
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/refint/BlowFish.dll
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.pdb
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/BlowFish.genruntimeconfig.cache
+/Users/timurusupov/RiderProjects/BlowFish/BlowFish/obj/Debug/net6.0/ref/BlowFish.dll
